@@ -1,0 +1,5 @@
+com\letsstartcoding\springboothibernate\model\Student.class
+com\letsstartcoding\springboothibernate\repository\StudentRepository.class
+com\letsstartcoding\springboothibernate\dao\StudentDAO.class
+com\letsstartcoding\springboothibernate\controller\StudentEnrollmentController.class
+com\letsstartcoding\springboothibernate\StudentEnrollmentApplication.class
